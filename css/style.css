@@ -149,10 +149,11 @@ body {
 
 @media (max-width: 960px) {
   .rocket {
-    max-width: 220px;
+    max-width: 170px;
   }
   .table-column {
-    width: 250px;
+    width: 160px;
+    font-size: 14px;
   }
 }
 @media (max-width: 768px) {
